@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  background: url('/assets/ice-marble.jpg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
